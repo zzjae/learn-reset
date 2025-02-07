@@ -11,3 +11,5 @@ Git 저장소 초기화하기
 pull, push 명령어 사용
 
 Github 사용
+
+Git은 너무 어려워....ㅠㅠ
